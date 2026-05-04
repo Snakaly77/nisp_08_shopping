@@ -131,3 +131,7 @@ body {
 .add-to-cart-btn:active {
     transform: scale(0.95);
 }
+.btn-action {
+    background-color: red;
+    color: white;
+}
